@@ -65,11 +65,11 @@ public class LibraryTest
 			try
 			{
 				System.out.println("List of known adapters:");
-				AdapterIterator iterator = new AdapterIterator();
+				AdapterIterator adapters = new AdapterIterator();
 				int i = 1;
-				while (iterator.hasNext())
+				while (adapters.hasNext())
 				{
-					Adapter tinyCan = iterator.next();
+					Adapter tinyCan = adapters.next();
 					System.out.println(i++ + ". Adapter:\t"
 							+ tinyCan.getDescription() + "\tID="
 							+ tinyCan.getSerialNumber());
