@@ -21,7 +21,10 @@ Requirements
 Using the Library
 =================
 
-* coming soon...
+* [Getting started](https://github.com/HardwareSpielerei/TinyCANJNA/wiki/Getting-Started)
+* [LibraryTest example program](https://github.com/HardwareSpielerei/TinyCANJNA/wiki/LibraryTest-example-program)
+* [Logger demo application](https://github.com/HardwareSpielerei/TinyCANJNA/wiki/Logger-demo-application)
+* [Version history](https://github.com/HardwareSpielerei/TinyCANJNA/wiki/Version-history)
 
 License
 =======
